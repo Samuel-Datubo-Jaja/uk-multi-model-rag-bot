@@ -26,6 +26,8 @@ StructureGPT is a powerful, modular AI assistant designed to simplify access to 
 ✅ **Fine-Tuning with LoRA + Quantization**: Efficient domain adaptation with 3,000 curated Q&A pairs.  <br>
 ✅ **Fully Transparent Output**: Source attribution, response times, and performance metrics included.
 
+## Workflow
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/194f1835-aa3b-4f33-ac78-a6e9ebcf3a9a" />
 
 ## 📷 Interface Snapshot
 ![image](https://github.com/user-attachments/assets/bdae8ebc-1939-4c36-bacf-8e41ada9a7e2)
