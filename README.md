@@ -19,12 +19,13 @@ A Multi-Model Retrieval-Augmented Generation (RAG) System Fine-Tuned for Domain-
 ## 🔍 Overview
 StructureGPT is a powerful, modular AI assistant designed to simplify access to UK Building Regulations. It compares three LLaMA-based language model configurations — including a LoRA fine-tuned model — in a shared RAG pipeline, enabling accurate, grounded, and efficient responses to complex regulatory queries.
 
-## 🚀 Features
-### ✅ Multi-Model RAG System: Supports LLaMA-3.3-70B, LLaMA3-8B via GROQ API, and a fine-tuned LLaMA-3.1-8B.
-### ✅ Unified Streamlit Interface: Seamlessly switch between models and explore real-time comparisons.
-### ✅ Hybrid Retrieval: 70% vector search (ChromaDB + all-mpnet-base-v2) + 30% BM25 keyword matching.
-### ✅ Fine-Tuning with LoRA + Quantization: Efficient domain adaptation with 3,000 curated Q&A pairs.
-### ✅ Fully Transparent Output: Source attribution, response times, and performance metrics included.
+## 🚀 Features  
+✅ **Multi-Model RAG System**: Supports LLaMA-3.3-70B, LLaMA3-8B via GROQ API, and a fine-tuned LLaMA-3.1-8B.  <br>
+✅ **Unified Streamlit Interface**: Seamlessly switch between models and explore real-time comparisons.  <br>
+✅ **Hybrid Retrieval**: 70% vector search (ChromaDB + all-mpnet-base-v2) + 30% BM25 keyword matching.  <br>
+✅ **Fine-Tuning with LoRA + Quantization**: Efficient domain adaptation with 3,000 curated Q&A pairs.  <br>
+✅ **Fully Transparent Output**: Source attribution, response times, and performance metrics included.
+
 
 ## 📷 Interface Snapshot
 ![image](https://github.com/user-attachments/assets/bdae8ebc-1939-4c36-bacf-8e41ada9a7e2)
@@ -33,14 +34,6 @@ StructureGPT is a powerful, modular AI assistant designed to simplify access to 
 
 🧪 Try It Live:
 👉 StructureGPT on Hugging Face Spaces
-
-## 📦 Stack & Tools
-💬 LLMs: Meta’s LLaMA-3 series (via GROQ API & Hugging Face)
-🔍 RAG Stack: LangChain, ChromaDB, BM25, Sentence Transformers
-🧠 Fine-Tuning: LoRA (Rank=16, Alpha=32), 8-bit Quantization
-🖥️ Deployment: Hugging Face Spaces + Streamlit
-🧪 Evaluation: RAGAS, Giskard Toolkit
-📊 Tracking: Weights & Biases (wandb)    
 
 ## 📦 Stack & Tools  
 💬 **LLMs**: Meta’s LLaMA-3 series (via GROQ API & Hugging Face)  <br>
