@@ -34,7 +34,7 @@ StructureGPT is a powerful, modular AI assistant designed to simplify access to 
 
 ![image](https://github.com/user-attachments/assets/493a24e8-f178-4cf3-a28d-d2d3e4ef547b)
 
-🧪 Try It Live:
+🧪 Try It Live: [Active Link will be available soon, for now just run it locally]
 👉 StructureGPT on Hugging Face Spaces
 
 ## 📦 Stack & Tools  
