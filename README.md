@@ -42,3 +42,11 @@ StructureGPT is a powerful, modular AI assistant designed to simplify access to 
 🧪 Evaluation: RAGAS, Giskard Toolkit
 📊 Tracking: Weights & Biases (wandb)    
 
+## 📦 Stack & Tools  
+💬 **LLMs**: Meta’s LLaMA-3 series (via GROQ API & Hugging Face)  <br>
+🔍 **RAG Stack**: LangChain, ChromaDB, BM25, Sentence Transformers  <br>
+🧠 **Fine-Tuning**: LoRA (Rank=16, Alpha=32), 8-bit Quantization  <br>
+🖥️ **Deployment**: Hugging Face Spaces + Streamlit  <br>
+🧪 **Evaluation**: RAGAS, Giskard Toolkit  <br>
+📊 **Tracking**: Weights & Biases (wandb)
+
